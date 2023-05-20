@@ -9,8 +9,9 @@ Parte del código de un videojuego de aventura que incorpora una serie de conten
 Junio 2017
 
 ## Acerca de
-Victor E Salcedo Z: [@victord3d](https://twitter.com/victord3d)
+Victor E Salcedo Z - [@victord3d](https://twitter.com/victord3d)
+
 Ginne Coronado
 
-##### Otros
-Más Informacion [TesisDeVideojuegos]([https://openwebinars.net/cursos/unity-videojuegos-2d/](https://victord3d.wordpress.com/portafolio/tesis-de-videojuegos/)) publicada a texto completo.
+## Otros
+Más Información [Tesis De Videojuegos](https://victord3d.wordpress.com/portafolio/tesis-de-videojuegos/) publicada a texto completo.
