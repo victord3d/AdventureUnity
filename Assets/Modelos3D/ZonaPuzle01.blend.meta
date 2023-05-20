@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 0620abcddc2a72b4bbb8441e0d13f676
+timeCreated: 1471472289
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BaseBoton01
+    100002: BaseBoton02
+    100004: BaseBoton03
+    100006: BaseBoton04
+    100008: BaseBoton05
+    100010: BaseBoton06
+    100012: Boton01
+    100014: Boton02
+    100016: Boton03
+    100018: Boton04
+    100020: Boton05
+    100022: Boton06
+    100024: ContenedorEsfera
+    100026: ContenedorEsferaTapa
+    100028: Cubo1x1
+    100030: MiniArbol
+    100032: PisoBase
+    100034: //RootNode
+    400000: BaseBoton01
+    400002: BaseBoton02
+    400004: BaseBoton03
+    400006: BaseBoton04
+    400008: BaseBoton05
+    400010: BaseBoton06
+    400012: Boton01
+    400014: Boton02
+    400016: Boton03
+    400018: Boton04
+    400020: Boton05
+    400022: Boton06
+    400024: ContenedorEsfera
+    400026: ContenedorEsferaTapa
+    400028: Cubo1x1
+    400030: MiniArbol
+    400032: PisoBase
+    400034: //RootNode
+    2300000: BaseBoton01
+    2300002: BaseBoton02
+    2300004: BaseBoton03
+    2300006: BaseBoton04
+    2300008: BaseBoton05
+    2300010: BaseBoton06
+    2300012: Boton01
+    2300014: Boton02
+    2300016: Boton03
+    2300018: Boton04
+    2300020: Boton05
+    2300022: Boton06
+    2300024: ContenedorEsfera
+    2300026: ContenedorEsferaTapa
+    2300028: Cubo1x1
+    2300030: MiniArbol
+    2300032: PisoBase
+    3300000: BaseBoton01
+    3300002: BaseBoton02
+    3300004: BaseBoton03
+    3300006: BaseBoton04
+    3300008: BaseBoton05
+    3300010: BaseBoton06
+    3300012: Boton01
+    3300014: Boton02
+    3300016: Boton03
+    3300018: Boton04
+    3300020: Boton05
+    3300022: Boton06
+    3300024: ContenedorEsfera
+    3300026: ContenedorEsferaTapa
+    3300028: Cubo1x1
+    3300030: MiniArbol
+    3300032: PisoBase
+    4300000: Boton06
+    4300002: Boton05
+    4300004: Boton04
+    4300006: Boton03
+    4300008: Boton02
+    4300010: Boton01
+    4300012: BaseBoton06
+    4300014: BaseBoton05
+    4300016: BaseBoton04
+    4300018: BaseBoton03
+    4300020: BaseBoton02
+    4300022: BaseBoton01
+    4300024: Cubo1x1
+    4300026: ContenedorEsferaTapa
+    4300028: ContenedorEsfera
+    4300030: PisoBase
+    4300032: MiniArbol
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
